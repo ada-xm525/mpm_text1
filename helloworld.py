@@ -16,3 +16,4 @@ def xp2(a):
 print(array_sum(a))
 print("hello world")
 print("hello lyh")
+print("hello fg")
