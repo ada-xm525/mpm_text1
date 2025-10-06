@@ -1,3 +1,4 @@
+print("hello world")
 
 a=[1,2,3]
 def array_sum(a):
@@ -14,3 +15,4 @@ def xp2(a):
     return a+2
 print(array_sum(a))
 print("hello world")
+print("hello lyh")
