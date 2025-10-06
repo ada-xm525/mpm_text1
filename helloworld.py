@@ -6,5 +6,11 @@ def array_sum(a):
         sum+=i
 
     return sum
+def xp1(a):
+    
+    return a+1
+def xp2(a):
+    
+    return a+2
 print(array_sum(a))
 print("hello world")
